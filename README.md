@@ -1,2 +1,3 @@
-# cdn
-This is my cdn repo.
+# Image cdn
+
+This is my image cdn repo.
